@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global font and smooth transitions for theme changes */
+body {
+  @apply font-sans transition-colors;
+}
+
+/* Reusable container with responsive paddings and max width */
+.container-responsive {
+  @apply max-w-6xl mx-auto px-4 sm:px-6 lg:px-8;
+}
