@@ -6,9 +6,8 @@
   "type": "module",
 <<<<<<< HEAD
 "scripts": {
-=======
+
   "scripts": {
->>>>>>> af3925d3195e9c1a69fe2a8d9c645bfdd8b85100
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview",
