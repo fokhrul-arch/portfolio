@@ -20,7 +20,7 @@ export default function Home() {
         </div>
         <div className="bg-gray-100 dark:bg-gray-800 rounded-lg h-48 sm:h-64 lg:h-80 flex items-center justify-center">
           <img
-            src="/MdFI.jpeg"
+            src="/portfolio/MdFI.jpeg"
             alt="Md. Fokhrul Islam"
             className="rounded-lg w-full h-full object-cover"
           />
