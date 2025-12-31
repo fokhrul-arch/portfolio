@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Food Ecommerce",
     description: "A static frontend shopping site for artisan spices and condiments, featuring dynamic product rendering, cart management, and checkout flow.",
-    image: "public/FE.png",
+    image: "/portfolio/FE.png",
     tech: ["TypeScript", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/fokhrul-arch/Food-ecommerce",
     live: "https://fokhrul-arch.github.io/Food-ecommerce/"
